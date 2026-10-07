@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Test-passing-brightgreen?style=flat-square&logo=github" alt="Test Passing"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=flat-square" alt="Coverage"></a>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v3.22-blue?style=flat-square&logo=flutter" alt="Flutter Version"></a>
-  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?style=flat-square&logo=python" alt="Python Version"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Status-In--Development-orange?style=flat-square" alt="Status"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Version-v1.0.0--alpha-blue?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen?style=flat-square" alt="Platform"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>
 </p>
 
 ---
