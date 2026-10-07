@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2197a2c6-d4b0-48ba-9cce-2d4414d28648" alt="GymZone Logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/2197a2c6-d4b0-48ba-9cce-2d4414d28648" alt="GymZone Logo" width="800" />
 </p>
 
 <h1 align="center">GymZone</h1>
