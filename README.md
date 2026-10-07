@@ -16,3 +16,19 @@
 </p>
 
 ---
+
+## Descripción
+
+**GymZone** es una aplicación móvil nativa diseñada para centralizar la gestión de entrenamientos, reservas y seguimiento de progreso en gimnasios de Zaragoza en una única plataforma fluida e intuitiva.
+
+---
+
+##  Funcionalidades Clave
+
+* **Nativa e integrada:** Experiencia de usuario rápida sin reorientaciones ni enlaces a webs externas lentas.
+* **Acceso digital:** Generación de código QR individual para entrar a las instalaciones de forma rápida y sin tarjetas físicas.
+* **Gestión de rutinas:** Creación, consulta y registro de ejercicios, series y cargas en tiempo real durante cada sesión.
+* **Reserva de clases:** Calendario dinámico para reservar y cancelar actividades dirigidas en un solo toque.
+* **Seguimiento de progreso:** Visualización de métricas, evolución del peso y marcas de fuerza con gráficas claras.
+* **Notificaciones inteligentes:** Avisos automáticos y recordatorios de clases para evitar faltas de asistencia.
+* **Perfil personalizado:** Control total de datos personales, suscripción activa e historial deportivo del usuario.
